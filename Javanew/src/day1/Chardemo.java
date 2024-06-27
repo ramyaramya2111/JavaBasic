@@ -1,6 +1,6 @@
 package day1;
 
-public class A {
+public class Chardemo {
 	public static void main(String args[])
 	{
 		
