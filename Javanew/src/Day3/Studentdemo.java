@@ -11,6 +11,6 @@ public class Studentdemo {
 		System.out.println("Student city:" +s1.city);
 		
 
-	}
+	}	
 
 }
